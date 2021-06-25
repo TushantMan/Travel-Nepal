@@ -1,0 +1,476 @@
+@media screen and (max-width: 1600px) {
+    .videocontainer{ 
+        height: 100%; 
+        bottom: 0;
+    }
+    .videocontainer video{ 
+        width: 100%;
+        position: static;
+    }
+}
+@media screen and (max-width: 1525px) {
+    .container2 .videosmall1{
+        width: 100%;
+        margin: 10px 0;
+    }
+    .container2 .videosmall2{
+        width: 100%;
+        margin: 10px 0;
+    }
+}
+@media screen and (max-width: 1280px) {
+    .column {
+        width: 50%;
+    }
+    .caption {
+        width:50%;
+        height: auto;
+    }
+    .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6, .bgimg-7, .bgimg-8, .bgimg-9, .bgimg-10, .bgimg-11, .bgimg-12, .bgimg-13, .bgimg-14, .bgimg-15, .bgimg-16 {
+        height:100%;
+        width: 100%;
+    }
+    .videocontainer{ 
+        height: auto; 
+    }
+    .videocontainer video{ 
+        width: 100%;
+        position: static;
+    }
+}
+@media (max-width:1100px) {
+    .container-slider {
+        width: 100%;
+    }
+    footer .content .middle{
+        padding-left: 50px;
+    }
+    footer .content .right{
+        padding: 0px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .column {
+        width: 50%;
+    }
+    .caption {
+        top:20%;
+        width:60%;
+        height: auto;
+        font-size: 25px;
+    }
+    .caption4 {
+        height: auto;
+        top:10%;
+        float: none;
+    }
+    .image2{
+        height:70%;
+        width:70%;
+    }
+    input{
+        width: 70%;
+    }
+    .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6, .bgimg-7, .bgimg-8, .bgimg-9, .bgimg-10, .bgimg-11,.bgimg-12, .bgimg-13, .bgimg-14, .bgimg-15, .bgimg-16 {
+        height:100%;
+        width: 100%;
+    }
+}
+@media only screen and (max-device-width: 1024px) {
+    .aboutbox h1{
+	    padding: 20px 10%;
+    }
+    .aboutbox p{
+        padding: 10px 10%;
+    }
+}
+@media screen and (max-width: 991px) {
+    .container4 input{
+        width: 100%;
+    }
+    .contact{
+        padding: 50px;
+    }
+    .containerform{
+        flex-direction: column;
+    }
+    .containerform .contactinfo, .contactform{
+        margin-bottom: 40px;
+        width: 100%;
+    }
+    .aboutbox h1{
+	    padding: 20px 10%;
+    }
+}
+@media (max-width:950px){
+    footer .content .box{
+        width: 50%;
+    }
+    .content .right{
+        margin-top: 40px;
+    }
+}
+@media (max-width: 880px) {
+    .aboutbox p{
+        padding: 10px 20%;
+    }
+}
+@media screen and (max-width: 800px) {
+    .column {
+        width: 100%;
+    }
+    .column2 {
+		flex: 50%;
+		max-width: 50%;
+	}
+    .container1{
+        font-size: 15px;
+        padding: 100px 25px 50px;
+    }
+    .container1 h2{
+        font-size: 15px;
+    }
+    .container1 h3{
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .container1 h4{
+        font-size: 18px;
+        padding: 10px 0;
+    }
+    .container1 p{
+        font-size: 20px;
+    }
+    .container2{
+        font-size: 15px;
+        padding: 20px;
+    }
+    .container2 h1{
+        padding: 20px 0;
+    }
+    .container2 p{
+        padding: 0 20px;
+        margin: 0 10px;
+    }
+    .container2 marquee{
+        font-size: 15px;
+    }
+    .container2 h3{
+        font-size: 25px;
+    }
+    .container2 h4{
+        font-size: 18px;
+        padding: 10px 0;
+    }
+    .container2 img{
+        padding: 10px 20px;
+    }
+    .container3{
+        font-size: 15px;
+        padding: 0 5px;
+        
+    }
+    .container4{
+        padding: 10px 0;
+        
+    }
+    .container6{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .container4 input{
+        width: 90%;
+    }
+    .caption {
+        top: 30%;
+        font-size: 25px;
+        text-align: justify;
+        height: auto;
+        width: auto;
+        float: none;
+        margin: 0 6%;
+    }
+    .caption h2{
+        font-size: 20px;
+    }
+    .caption2{
+        top: 30%;
+        font-size: 60px;
+    }
+    .caption3{
+        font-size: 15px;
+        top:15%;
+        height: auto;
+        float: none;
+    }
+    .caption4 {
+        font-size: 15px;
+        height: auto;
+        top:10%;
+        float: none;
+    }
+    .caption4 h1{
+        font-size: 35px;
+    }
+    .caption5 h2{
+        font-size: 30px;
+    }
+    .caption5 img{
+        height: 40%;
+        width: 40%;
+    }
+    .caption7 {
+        top: 35%;
+    }
+    .image1{
+        width:100%;
+    }
+    .image2{
+        height:60%;
+        width:60%;
+    }
+    .image3{
+        width:100%;
+        height: auto;
+    }
+    .image4{
+        width:100%;
+        height: auto;
+    }
+    .alignment{
+        padding: 0 15px;
+    }
+    .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6, .bgimg-7, .bgimg-8, .bgimg-9, .bgimg-10, .bgimg-11, .bgimg-12, .bgimg-13, .bgimg-14, .bgimg-15, .bgimg-16 {
+        height:100%;
+        width: 100%;
+}
+    .videocontainer{ 
+        height: auto; 
+    }
+    .videocontainer video{ 
+        width: 100%;
+        position: static;
+    }
+    .gotopbtn{
+        display: none;
+    }
+}
+@media (max-width:700px){
+    .caption h1{
+        font-size: 50px;
+    }
+}
+@media screen and (max-width: 600px) {
+	.column2 {
+		flex: 100%;
+		max-width: 100%;
+	}
+}
+@media (max-width:560px){
+    footer{
+        position: relative;
+    }
+    footer .content .box{
+        width: 100%;
+        margin-top: 30px;
+    }
+    footer .content .middle{
+        padding-left: 0;
+    }
+}
+@media screen and (max-width: 545px) {
+    .caption6{
+        font-size: 28px;
+    }
+}
+@media screen and (max-width: 500px) {
+    .navlinks ul li a {
+        font-size: 30px;
+    }
+    .container1{
+        font-size: 15px;
+    }
+    .container2{
+        font-size: 15px;
+        padding: 10px;
+    }
+    .container2 h1{
+        font-size: 28px;
+    }
+    .container2 p{
+        font-size: 14px;
+    }
+    .container3{
+        font-size: 10px;
+        padding:30px 10px;
+    }
+    .container3 h2{
+        font-size: 15px;
+    }
+    .container4 h2{
+        font-size: 15px;
+    }
+    .container6 h2{
+        font-size: 20px;
+    }
+    .caption{
+        font-size: 23px;
+        text-align: center;
+        
+    }
+    .caption h1{
+        font-size: 50px;
+    }
+    .caption2{
+        font-size: 50px;
+    }
+    .caption3{
+        font-size: 15px;
+        top:5%;
+    }
+    .caption4{
+        top: 20%;
+    }
+    .caption4 h1{
+        font-size: 25px;
+    }
+    .caption5 h2{
+        font-size: 20px;
+    }
+    .caption6{
+        font-size: 20px;
+    }
+    .caption7 {
+        top: 20%;
+    }
+    h2{
+        font-size: 10px;
+    }
+    .column {
+        padding: 10px;
+    }
+    .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6, .bgimg-7, .bgimg-8, .bgimg-9, .bgimg-10, .bgimg-11, .bgimg-12, .bgimg-13, .bgimg-14, .bgimg-15, .bgimg-16 {
+        height: 30%;
+    }
+    
+    input{
+        width: 100%;
+    }
+    .submitbtn-hover {
+        width:80%;
+    }
+    .aboutbox h1{
+	    padding: 20px 0%;
+    }
+    .aboutbox p{
+        padding: 10px 0%;
+    }
+    
+}
+@media screen and (max-width: 435px) {
+    .container1{
+        font-size: 15px;
+    }
+    .container1 h1{
+        font-size: 30px;
+    }
+    .container1 p{
+        font-size: 13px;
+    }
+    .container2{
+        font-size: 15px;
+        padding: 10px;
+    }
+    .container2 h1{
+        font-size: 25px;
+    }
+    .container3{
+        font-size: 10px;
+        padding:30px 10px;
+    }
+    .container3 h2{
+        font-size: 15px;
+    }
+    .container4{
+        font-size: 10px;
+    }
+    .container6 h1{
+        font-size: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .container6 h2{
+        font-size: 15px;
+    }
+    .caption{
+        font-size: 20px;
+        top:22%;
+    }
+    .caption h1{
+        margin-top: 50%;
+        text-align: center;
+    }
+    .caption2{
+        font-size: 30px;
+    }
+    .caption4{
+        top: 25%;
+    }
+    .caption5 h2{
+        font-size: 20px;
+    }
+    .caption7 {
+        top: 20%;
+    }
+    .caption7 h1{
+        font-size: 30px;
+    }
+    h2{
+        font-size: 12px;
+    }
+    input{
+        width: 100%;
+    }
+    
+}
+@media screen and (max-width: 380px){
+    .aboutbox-img{
+        height: 80%;
+        width: 80%;
+    }
+}
+@media screen and (max-height: 500px) {
+    .navlinks ul li a {
+        font-size: 15px;
+    }
+    .caption{
+        font-size: 20px;
+    }
+    .caption3{
+        top: 7%;
+    }
+    .caption4 h1{
+        font-size: 30px;
+    }
+    .caption5 h2{
+        font-size: 25px;
+    }
+    .caption6{
+        top:70%;
+        font-size: 20px;
+    }
+    .container3 img{
+        height: 50%;
+        width: 50%;
+    }
+    .container3 h2{
+        font-size: 15px;
+        padding: 7px ;
+    }
+    .container4 h1{
+        font-size: 35px;
+    }
+    .container4 h2{
+        font-size: 15px;
+    }
+}

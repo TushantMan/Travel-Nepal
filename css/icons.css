@@ -1,0 +1,172 @@
+
+.fa,
+.fa-menu {
+	height: 0.8em;
+	width: 0.8em;
+    background-image: url("../icons/menu.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	vertical-align: middle;
+}
+.fa-close {
+	height: 0.8em;
+	width: 0.8em;
+    background-image: url("../icons/close.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	vertical-align: middle;
+}
+.fa-top{
+    height: 50px;
+	width: 50px;
+    background-image: url("../icons/top.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	vertical-align: middle;
+}
+.fa-down{
+    height: 35px;
+	width: 35px;
+    background-image: url("../icons/down.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	vertical-align: middle;
+}
+.fa-facebook{
+    height: 40px;
+	width: 40px;
+    background-image: url("../icons/fb.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	vertical-align: middle;
+}
+.fa-twitter{
+    height: 35px;
+	width: 35px;
+    background-image: url("../icons/tw.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	vertical-align: middle;
+}
+.fa-instagram{
+    height: 35px;
+	width: 35px;
+    background-image: url("../icons/ig.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	vertical-align: middle;
+}
+.fa-wechat{
+    height: 40px;
+	width: 40px;
+    background-image: url("../icons/we.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	vertical-align: middle;
+}
+.fa-youtube{
+    height: 35px;
+	width: 35px;
+    background-image: url("../icons/yt.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	vertical-align: middle;
+}
+.fa-qq{
+    height: 35px;
+	width: 35px;
+    background-image: url("../icons/qq.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	vertical-align: middle;
+}
+.fa-linkedin{
+    height: 35px;
+	width: 35px;
+    background-image: url("../icons/li.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	vertical-align: middle;
+}
+.fa-phone{
+    height: 35px;
+	width: 35px;
+    background-image: url("../icons/ph.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	vertical-align: middle;
+}
+.fa-envelope{
+    height: 35px;
+	width: 35px;
+    background-image: url("../icons/mail.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	vertical-align: middle;
+}
+.fa-map-marker{
+    height: 35px;
+	width: 35px;
+    background-image: url("../icons/lo.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	vertical-align: middle;
+}
+.fa-envelope2{
+    height: 60px;
+	width: 60px;
+    background-image: url("../icons/mail.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	vertical-align: middle;
+}
+.fa-wechat2{
+    height: 60px;
+	width: 60px;
+    background-image: url("../icons/we.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	vertical-align: middle;
+}
+.fa-instagram2{
+    height: 60px;
+	width: 60px;
+    background-image: url("../icons/ig.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	vertical-align: middle;
+}
