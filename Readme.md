@@ -14,3 +14,5 @@
 
 
 ![nepal-website](images/preview.png)
+
+I don't own the photos used in this site. All images right reserved to various authous
